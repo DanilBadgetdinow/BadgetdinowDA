@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BadgetdinowDA</string>
+        <string name="lbl_login">Login</string>
+        <string name="lbl_password">Password</string>
+        <string name="hint_login">Account</string>
+        <string name="next">Next</string>
+        <string name="previous">Previous</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">Здравствуй мир!</string>
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="lbl_login">Логин</string>
+        <string name="lbl_password">пароль</string>
+        <string name="hint_login">Учетная запись</string>
+        <string name="previous">Раньше</string>
+        <string name="next">Следующий</string>
+    </resources>
+
